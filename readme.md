@@ -1,4 +1,4 @@
-# getsmscode
+# getsmscode2
 
 > API client for [getsmscode.com](http://www.getsmscode.com/).
 
